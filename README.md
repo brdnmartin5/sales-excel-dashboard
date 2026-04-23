@@ -3,7 +3,7 @@
 ## Objective
 Analyze sales data to identify key trends across regions, product categories and time.
 
-##Tools Used
+## Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Dashboard Design)
 
 ## Key Insights
