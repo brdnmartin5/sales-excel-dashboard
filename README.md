@@ -1,4 +1,4 @@
-# sales-excel-dashboard
+# sales-performance-dashboard-excel
 
 ## Objective
 Analyze sales data to identify key trends across regions, product categories and time.
